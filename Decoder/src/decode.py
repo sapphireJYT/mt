@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-'''                 Yating Jing
-                   yating@jhu.edu
+'''                       yatbear
+                   sapphirejyt@gmail.com
 
     HW 2 - Phrase-based Decoding (Encode Reordering)
             JHU 600.468 Machine Translation

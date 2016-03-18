@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-'''                         Yating Jing
-                           yating@jhu.edu
+'''                           yatbear
+                       sapphirejyt@gmail.com
 
              HW 4 - Simple Reranker, add 3 word features
                     JHU 600.468 Machine Translation

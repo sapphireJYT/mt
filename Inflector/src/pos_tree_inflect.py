@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-'''                     Yating Jing
-                       yating@jhu.edu
+'''                        yatbear
+                    sapphirejyt@gmail.com
 
                       HW 5 - Inflector
       unigram LM incorporating POS tags and dependency trees

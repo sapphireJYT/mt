@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-'''                         Yating Jing
-                           yating@jhu.edu
+'''                           yatbear
+                       sapphirejyt@gmail.com
 
             HW 4 - Reranker based on multi-class classifier
                     JHU 600.468 Machine Translation

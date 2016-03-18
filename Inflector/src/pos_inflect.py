@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 
-'''                 Yating Jing
-                   yating@jhu.edu
+'''                    yatbear
+                sapphirejyt@gmail.com
 
-                  HW 5 - Inflector
+                   HW 5 - Inflector
              unigram LM incorporating tags
             JHU 600.468 Machine Translation         '''
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-'''                         Yating Jing
-                           yating@jhu.edu
+'''                            yatbear
+                        sapphirejyt@gmail.com
 
        HW 3 - Automatic Evaluation using Multi-Class Classifiers
                     JHU 600.468 Machine Translation

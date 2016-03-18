@@ -1,6 +1,6 @@
 # Machine Translation
 
-- [Word alignment](https://github.com/sapphireJYT/mt/tree/master/Word-Aligner)
+- [Word Alignment](https://github.com/sapphireJYT/mt/tree/master/Word-Aligner)
 
 - [Decoding (French-English)](https://github.com/sapphireJYT/mt/tree/master/Decoder) 
 
